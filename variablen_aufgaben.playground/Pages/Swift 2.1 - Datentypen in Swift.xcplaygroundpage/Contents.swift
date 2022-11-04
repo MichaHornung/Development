@@ -10,7 +10,7 @@ print("Geburtsjahr \(Geburtsjahr)")
 
 
 var Alter = 42
-print("Alter \(Alter)")
+print("Alter \(Alter)")   
 print("########################################")
 print("Mein Alter vor meinem Geburtstag \(Alter)")
 
